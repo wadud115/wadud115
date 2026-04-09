@@ -8,7 +8,7 @@
 
 - 🌱 I’m learning: React
 - 👯 I’m looking to collaborate on: Web Projects
-- 📫 How to reach me: your-email@gmail.com
+- 📫 How to reach me: wadud871226@gmail.com
 
 ---
 
