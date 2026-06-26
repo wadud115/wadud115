@@ -20,18 +20,18 @@ I enjoy learning new technologies, writing clean code, and continuously improvin
 ---
 
 ## 🚀 Skills
--HTML5
--CSS3
--Tailwind CSS
--JavaScript (ES6+)
--React.js
--Next.js
--Node.js
--Express.js
--MongoDB
--Git
--GitHub
--REST API
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Git
+- GitHub
+- REST API
 
 ---
 
