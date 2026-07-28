@@ -38,7 +38,7 @@ I enjoy learning new technologies, writing clean code, and continuously improvin
 ## 🛠️ Projects
 
 ### 🔹 Digital Tools Subscription
-👉 Live: https://your-live-link.com  
+👉 Live: https://digitel-tools-subcription.netlify.app
 👉 Code: https://github.com/your-username/project-link  
 
 Features:
