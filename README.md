@@ -39,7 +39,7 @@ I enjoy learning new technologies, writing clean code, and continuously improvin
 
 ### 🔹 Digital Tools Subscription
 👉 Live: https://digitel-tools-subcription.netlify.app
-👉 Code: https://github.com/your-username/project-link  
+👉 Code: https://github.com/wadud115/digiTools-subcription.git
 
 Features:
 - User can buy subscriptions
