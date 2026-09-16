@@ -1,37 +1,109 @@
-# 👋 Hey, I'm Akramul Wadud
+<!-- ===================== HERO ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Akramul%20Wadud&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Web+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+%7C+Always+Building" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/wadud115">
+    <img src="https://komarev.com/ghpvc/?username=wadud115&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+# 👋 Hi, I'm Akramul Wadud
 
 ### 💻 Aspiring Full Stack Web Developer
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+> 🚀 **Learn → Build → Break → Debug → Improve → Repeat.**
 
-> 🚀 Building modern web experiences, one project at a time.
+I'm an aspiring **Full Stack Web Developer** passionate about building modern, responsive, and user-focused web applications.
 
-I'm an aspiring **Full Stack Web Developer** passionate about creating modern, responsive, and user-focused web applications.
-
-I enjoy turning ideas into functional products, solving development problems, debugging code, and continuously learning better ways to build software.
+I enjoy turning ideas into real projects, solving development problems, debugging code, and continuously exploring new technologies.
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Quick Snapshot
 
-* 💻 Currently focused on **Full Stack Web Development**
-* ⚛️ Working with **React & Next.js**
-* 🌱 Learning **Node.js, Express.js & MongoDB**
-* 🔨 Building real-world projects to improve my development skills
-* 🧠 Improving my **problem-solving & debugging** abilities
-* 🎯 Goal: Become a professional **Software Engineer**
-* 💡 Interested in building useful products that solve real problems
-* 📫 Reach me at **[wadud871226@gmail.com](mailto:wadud871226@gmail.com)**
+```yaml
+Name: Akramul Wadud
+Role: Aspiring Full Stack Web Developer
+
+Currently:
+  - Building web applications
+  - Learning Next.js & backend development
+  - Improving problem-solving skills
+
+Frontend:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Next.js
+  - Tailwind CSS
+
+Backend:
+  - Node.js
+  - Express.js
+  - REST API
+
+Database:
+  - MongoDB
+
+Tools:
+  - Git
+  - GitHub
+  - VS Code
+
+Goal:
+  Become a Professional Software Engineer
+```
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 What I'm Currently Doing
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔨 Building
+
+I'm building real-world projects to improve my understanding of:
+
+* Next.js
+* React
+* Authentication
+* REST APIs
+* MongoDB
+* Responsive UI
+
+</td>
+
+<td width="50%">
+
+### 🌱 Learning
+
+Currently going deeper into:
+
+* Full Stack Development
+* Backend Architecture
+* Database Integration
+* API Development
+* Modern JavaScript
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ Tech Stack
 
 ### 🎨 Frontend
 
@@ -45,7 +117,7 @@ I enjoy turning ideas into functional products, solving development problems, de
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### 🛠️ Tools & Workflow
+### 🛠️ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify" />
@@ -53,135 +125,138 @@ I enjoy turning ideas into functional products, solving development problems, de
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎨 PixGen — AI Photo Gallery
+## 🎨 PixGen — AI Photo Gallery
 
-A modern gallery application where users can explore photos, view detailed information, manage their profile, and authenticate using email/password or Google.
+> A modern photo gallery application with authentication and user profile management.
 
-**Key Features**
+### ✨ Features
 
-* 🖼️ Photo gallery
-* 🔍 Photo details
-* 👤 User profile management
-* ✏️ Profile update
-* 🔐 Email authentication
+* 🖼️ Photo Gallery
+* 🔍 Photo Details
+* 👤 User Profile
+* ✏️ Profile Update
+* 🔐 Email Authentication
 * 🔵 Google Sign-In
-* 📱 Responsive design
+* 📱 Responsive Design
 
-🔗 **Live:** https://image-gen-five-opal.vercel.app
-💻 **Code:** https://github.com/wadud115/image-gen
+**Tech:** `Next.js` `React` `Tailwind CSS` `HeroUI` `Authentication`
+
+<p>
+  🔗 <a href="https://image-gen-five-opal.vercel.app">Live Demo</a>
+  •
+  💻 <a href="https://github.com/wadud115/image-gen">Source Code</a>
+</p>
 
 ---
 
-### 🧰 Digital Tools Subscription
+## 🧰 Digital Tools Subscription
 
-A responsive subscription-based digital tools platform built with React.
+> A responsive digital tools subscription platform built with React.
 
-**Key Features**
+### ✨ Features
 
-* 💳 Subscription system UI
-* 🛒 Product/cart functionality
-* 📱 Responsive interface
-* 🎨 Modern UI
+* 💳 Subscription UI
+* 🛒 Cart functionality
+* 🎨 Modern interface
+* 📱 Responsive design
 * ⚡ React-based architecture
 
-🔗 **Live:** https://digitel-tools-subcription.netlify.app
-💻 **Code:** https://github.com/wadud115/digiTools-subcription
+**Tech:** `React` `Vite` `Tailwind CSS`
+
+<p>
+  🔗 <a href="https://digitel-tools-subcription.netlify.app">Live Demo</a>
+  •
+  💻 <a href="https://github.com/wadud115/digiTools-subcription">Source Code</a>
+</p>
 
 ---
 
-### 👥 KeenKeeper
+## 👥 KeenKeeper
 
-A relationship management application designed to help users keep track of important people and interactions.
+> A relationship management application for keeping track of important people and interactions.
 
-**Key Features**
+### ✨ Features
 
 * 👤 Friend management
 * 📞 Call / Text / Video actions
-* 📅 Relationship timeline
-* 📊 Visual statistics
+* 📅 Timeline
+* 📊 Statistics
 * 🔔 Status tracking
 * 📱 Responsive UI
 
-🔗 **Live:** https://snazzy-maamoul-91b39b.netlify.app/
-💻 **Code:** https://github.com/wadud115/Kinkeeper
+**Tech:** `React` `React Router` `Context API` `Tailwind CSS` `Recharts`
+
+<p>
+  🔗 <a href="https://snazzy-maamoul-91b39b.netlify.app/">Live Demo</a>
+  •
+  💻 <a href="https://github.com/wadud115/Kinkeeper">Source Code</a>
+</p>
 
 ---
 
-### 📚 Book Vibes
+## 📚 Book Vibes
 
-A modern book browsing application focused on discovering and exploring books through a clean interface.
+> A clean and responsive book browsing application.
 
-**Key Features**
+### ✨ Features
 
 * 📖 Book browsing
-* 🔎 Search experience
+* 🔎 Search
 * 🎨 Clean UI
 * 📱 Responsive design
-* ⚛️ React-based application
 
-🔗 **Live:** https://regal-bonbon-c4fbc0.netlify.app/
-💻 **Code:** https://github.com/wadud115/Book-vibes
+**Tech:** `React` `JavaScript` `CSS`
+
+<p>
+  🔗 <a href="https://regal-bonbon-c4fbc0.netlify.app/">Live Demo</a>
+  •
+  💻 <a href="https://github.com/wadud115/Book-vibes">Source Code</a>
+</p>
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 My Development Philosophy
 
 ```text
-React.js
-   ↓
-Next.js
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-MongoDB
-   ↓
-Full Stack Development
+                    ┌─────────────┐
+                    │    LEARN    │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │    BUILD    │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │    BREAK    │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │    DEBUG    │
+                    └──────┬──────┘
+                           ↓
+                    ┌─────────────┐
+                    │   IMPROVE   │
+                    └──────┬──────┘
+                           ↓
+                       🔁 REPEAT
 ```
 
-I'm currently focusing on understanding not only **how to build things**, but also **why they work**.
+> **Every bug is a lesson, every project is experience, and every line of code is an opportunity to improve.**
 
 ---
 
-## 🔭 Currently Building
-
-> 🚧 Turning ideas into real-world web applications.
-
-I'm spending most of my development time working on projects with:
-
-* Next.js
-* React
-* REST APIs
-* Authentication
-* MongoDB
-* Responsive UI
-* Modern JavaScript
-
----
-
-## 🧩 My Development Mindset
-
-```text
-Learn → Build → Break → Debug → Improve → Repeat 🔁
-```
-
-I believe the best way to learn development is to **build projects, face problems, debug them, and keep improving.**
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wadud115&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wadud115&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadud115&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wadud115&theme=tokyonight&hide_border=true" />
@@ -189,7 +264,7 @@ I believe the best way to learn development is to **build projects, face problem
 
 ---
 
-## 🐍 Contribution Journey
+# 🐍 My Contribution Journey
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wadud115/wadud115/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
@@ -197,9 +272,69 @@ I believe the best way to learn development is to **build projects, face problem
 
 ---
 
-## 🌐 Let's Connect
+# 🎯 2026 Roadmap
 
-<p align="left">
+```text
+                    2026
+                      │
+        ┌─────────────┼─────────────┐
+        ↓             ↓             ↓
+     Next.js       Backend       Projects
+        │             │             │
+        ↓             ↓             ↓
+   Advanced React   Node.js      Full Stack
+        │             │             │
+        └─────────────┼─────────────┘
+                      ↓
+               Software Engineer
+```
+
+### My Goals
+
+* [ ] Become confident with Next.js
+* [ ] Build more full-stack applications
+* [ ] Improve backend development
+* [ ] Work with real-world APIs
+* [ ] Strengthen problem-solving skills
+* [ ] Learn better software architecture
+* [ ] Contribute to open-source
+* [ ] Build production-ready applications
+
+---
+
+# 📈 My Developer Journey
+
+```text
+HTML
+ │
+ ├── CSS
+ │
+ └── JavaScript
+        │
+        ↓
+      React
+        │
+        ↓
+     Next.js
+        │
+        ↓
+     Node.js
+        │
+        ↓
+    Express.js
+        │
+        ↓
+     MongoDB
+        │
+        ↓
+  Full Stack Developer 🚀
+```
+
+---
+
+# 🌐 Let's Connect
+
+<p align="center">
 
 <a href="https://linkedin.com/in/md-akramul-wadud-40b5973b9">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -209,7 +344,7 @@ I believe the best way to learn development is to **build projects, face problem
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:[wadud871226@gmail.com](mailto:wadud871226@gmail.com)">
+<a href="mailto:wadud871226@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -217,28 +352,24 @@ I believe the best way to learn development is to **build projects, face problem
 
 ---
 
-## 🎯 2026 Goals
+# 💭 A Little Reminder
 
-* [ ] Become confident with Next.js
-* [ ] Build more full-stack applications
-* [ ] Improve backend development skills
-* [ ] Work with real-world APIs
-* [ ] Improve problem-solving skills
-* [ ] Contribute to open-source projects
-* [ ] Build and deploy production-ready applications
+<p align="center">
 
----
+### **Don't compare your Chapter 1 with someone's Chapter 20.**
 
-## 💭 Developer Quote
+### Keep learning. Keep building. Keep moving. 🚀
 
-> **"Great developers are not the ones who know everything — they are the ones who never stop learning."**
+</p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6C63FF&height=120&section=footer"/>
 </p>
 
 <p align="center">
-  <i>Let's build something meaningful together.</i>
+  <b>Thanks for visiting my profile! 👋</b>
+  <br/>
+  <sub>Built with curiosity, consistency & lots of debugging ☕💻</sub>
 </p>
