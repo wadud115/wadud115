@@ -245,16 +245,7 @@ Currently going deeper into:
 
 > **Every bug is a lesson, every project is experience, and every line of code is an opportunity to improve.**
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wadud115&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadud115&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 # 🔥 Contribution Streak
 
@@ -262,15 +253,6 @@ Currently going deeper into:
   <img src="https://streak-stats.demolab.com?user=wadud115&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 🐍 My Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wadud115/wadud115/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
 
 # 🎯 2026 Roadmap
 
