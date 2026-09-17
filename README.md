@@ -14,6 +14,16 @@
   </a>
 </p>
 
+<div align="center">
+
+<a href="(https://lumina-alpha-one-64.vercel.app/)" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-Visit%20Now-6176F7?style=for-the-badge" alt="My Portfolio"/>
+</a>
+
+</div>
+
+<br/>
+
 ---
 
 # 👋 Hi, I'm Akramul Wadud
@@ -27,15 +37,7 @@ I'm an aspiring **Full Stack Web Developer** passionate about building modern, r
 I enjoy turning ideas into real projects, solving development problems, debugging code, and continuously exploring new technologies.
 
 
-<div align="center">
 
-<a href="https://your-portfolio-url.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-Visit%20Now-6176F7?style=for-the-badge" alt="My Portfolio"/>
-</a>
-
-</div>
-
-<br/>
 
 ---
 
