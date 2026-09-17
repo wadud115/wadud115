@@ -267,6 +267,16 @@ Currently going deeper into:
 </p>
 
 
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/wadud115/wadud115/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
 # 🎯 2026 Roadmap
 
 ```text
