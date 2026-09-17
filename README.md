@@ -16,8 +16,8 @@
 
 <div align="center">
 
-<a href="[https://lumina-alpha-one-64.vercel.app/]" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-Visit%20Now-6176F7?style=for-the-badge" alt="My Portfolio"/>
+<a href="https://lumina-alpha-one-64.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-6176F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
 </a>
 
 </div>
