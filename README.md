@@ -8,11 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Web+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+%7C+Always+Building" />
 </p>
 
+
 <p align="center">
   <a href="https://github.com/wadud115">
-    <img src="https://komarev.com/ghpvc/?username=wadud115&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/wadud115?label=Followers&color=6C63FF&style=for-the-badge&logo=github" />
   </a>
 </p>
+
 
 <div align="center">
 
