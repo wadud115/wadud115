@@ -142,6 +142,33 @@ Currently going deeper into:
 
 # 🚀 Featured Projects
 
+
+### 🚘 DriveFleet — Car Rental Platform
+
+A modern car rental web application that allows users to explore cars, search and filter vehicles, and book their preferred cars with ease.
+
+**✨ Features**
+- 🔐 Email/Password and Google Authentication
+- 🚗 Browse, search, and filter available cars
+- 📅 Book cars and manage personal bookings
+- ➕ Add and manage your own cars
+- 👤 User-specific booking history
+- 🔒 Protected routes and authentication
+- 📱 Responsive user interface
+
+**🛠️ Tech Stack**
+
+`Next.js` `React.js` `JavaScript` `Tailwind CSS` `HeroUI` `Node.js` `Express.js` `MongoDB` `Better Auth` `JWT`
+
+**🔗 Links**
+
+<p>
+  🔗 <a href="https://drive-fleet-car.vercel.app">Live Demo</a>
+  •
+  💻 <a href=" https://github.com/wadud115/drive-fleet-car-client.git"> Client Source Code</a>
+</p>
+
+
 ## 🎨 PixGen — AI Photo Gallery
 
 > A modern photo gallery application with authentication and user profile management.
